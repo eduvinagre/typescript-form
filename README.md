@@ -85,6 +85,6 @@ https://typescript-form-ebon.vercel.app
 
 ## Contact
 
-If you have any questions or would like to discuss this project further, please feel free to reach out to me. You can contact me via email at eduvinagre@gmail.com(mailto:eduvinagre@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/eduvinagre).
+If you have any questions or would like to discuss this project further, please feel free to reach out to me. You can contact me via email at [eduvinagre@gmail.com](mailto:eduvinagre@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/eduvinagre).
 
 Let's evolve together! 🚀
