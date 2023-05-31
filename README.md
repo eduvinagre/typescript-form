@@ -19,6 +19,12 @@ The project focuses on providing intuitive and efficient selection experiences, 
 I am thrilled with the outcomes achieved in this React project, particularly with the progress I made in TypeScript. I look forward to sharing more details with you. Please feel free to reach out to me if you would like to learn more about the features or if you are interested in collaborating.
 
 ## Screenshots
+Selection Components
+![](./screenshot1.png)
+Multiple Selection
+![](./screenshot2.png)
+Single Selection
+![](./screenshot3.png)
 
 ## Installation
 
