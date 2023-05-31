@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
 .container {
   position: relative;
   width: 20em;
@@ -9,6 +11,7 @@
   padding: 0.5em;
   border-radius: 1em;
   outline: none;
+  font-family: "Nunito", sans-serif;
 }
 
 .container.focus {
@@ -30,6 +33,7 @@
   cursor: pointer;
   padding: 0;
   font-size: 1.25em;
+  font-family: "Nunito", sans-serif;
 }
 
 .clear-btn:focus,
