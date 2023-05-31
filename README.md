@@ -20,11 +20,11 @@ I am thrilled with the outcomes achieved in this React project, particularly wit
 
 ## Screenshots
 Selection Components
-![](./screenshot1.png)
+![](./Screenshot1.png)
 Multiple Selection
-![](./screenshot2.png)
+![](./Screenshot2.png)
 Single Selection
-![](./screenshot3.png)
+![](./Screenshot3.png)
 
 ## Installation
 
