@@ -83,6 +83,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 https://typescript-form-ebon.vercel.app
 
+## Acknowledgments
+
+![Badge em Desenvolvimento](https://img.shields.io/badge/SATUS-FINISHED-green)
+![Badge licenca](https://img.shields.io/badge/License-MIT-lightgrey)
+![Badge author](https://img.shields.io/badge/Author-%40eduvinagre-informational)
+
 ## Contact
 
 If you have any questions or would like to discuss this project further, please feel free to reach out to me. You can contact me via email at [eduvinagre@gmail.com](mailto:eduvinagre@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/eduvinagre).
